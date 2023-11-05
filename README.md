@@ -1,14 +1,15 @@
-# Projekt-Design-Lab
-Repozytorium poświęcone projektowi z Design Laboratory.
-Projekt tworzony przez zespół nr 5 - Bartosz Zaporowski, Łukasz Żądło
-To przedsięwzięcie zakłada zaprojektowanie oraz wykonanie stroika gitarowego bazując na mikrokontrolerze STM32L476 wraz z modułem mikrofonowym oraz wyświetlaczem OLED.
+# Project-Design-Lab
 
-Harmonogram Prac:
+This repository is made for Desing lab project.
+Authors of project are Bartosz Zaporowski and Łukasz Żądło
+We are creating a guitar tuner on STM32 - DISCOVERY controller
 
-1 tydzień - kompletowanie sprzętu (wyświetlacz, płytka, mikrofon).
+Plan of work:
 
-2 tydzień - zapoznanie ze środowiskiem.
+1 week - Collecting equipment needed for the project.
 
-3,4,5,6 tydzień - wstępne zestawianie elementów oraz zczytywanie dźwięku i analiza widmowa.
+2 week - Getting started with Qube IDE
 
-7,8,9,10 tydzień - Udoskonalanie projektu, usuwanie błędów.
+3,4,5,6 weeks - First works with elements, reading tunes and spectrum analizing 
+
+7,8,9,10 weeks - Deleting bugs.
